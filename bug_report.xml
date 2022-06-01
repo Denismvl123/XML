@@ -1,5 +1,5 @@
-<bug report>
- <Bug ID>237</Bug ID>
+<bug_report>
+ <Bug_ID>237</Bug_ID>
  <Summary>"The SAVE DATA button is smaller than the others"</Summary>
  <Severity>"trivial"</Severity>
  <Priority>"low"</Priority>
@@ -7,4 +7,4 @@
  <AR>"The application buttons have one view"</AR>
  <ER>"The “SAVE DATA” button is smaller than the others"</ER>
  <Attachments>"https://drive.google.com/file/d/1vQ_dc2Dkg2FlycsTAk9e5Qx1jw9_6N3T/view?usp=sharing"</Attachments>
-</bug report>
+</bug_report>
